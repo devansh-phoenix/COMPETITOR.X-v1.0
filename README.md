@@ -1,0 +1,1 @@
+# COMPETITOR.X-v1.0
