@@ -1,3 +1,5 @@
+# COMPETITOR.X-v1.0
+
 # CompetitorX ⚡️
 ### Autonomous Website Comparison Agent (Powered by TinyFish)
 
